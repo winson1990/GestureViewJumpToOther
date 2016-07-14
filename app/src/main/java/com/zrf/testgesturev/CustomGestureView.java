@@ -172,7 +172,7 @@ public class CustomGestureView  extends LinearLayout{
                 }
                 
 //                if(event.getPointerCount()==1){
-//                    IwdsLog.d(TAG, "单指点击 OK");
+//                    Log.d(TAG, "单指点击 OK");
 //                    onGestureChangeListener.processGestrue(GestureType.GEST_SINGLE_TAP);
 //                    isGestureChange=true;
 //                    return true;
